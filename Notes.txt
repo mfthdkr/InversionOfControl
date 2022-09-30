@@ -1,0 +1,7 @@
+1) gevþek baðlý nesneler oluþturmak ve unit test yazmayý kolaylaþtýrmak için.
+
+2) Injection yöntemleri: constructor, method, property(asp.net core defaut desteklemiyor property yöntemi için)
+
+3) IoC Container
+
+4) ILogger
